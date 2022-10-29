@@ -1,5 +1,5 @@
 #directory
-setwd("/Users/marcinzurek/Desktop/Studia/Magisterka/Data Mining/projekt")
+setwd("Data Mining/projekt")
 
 #wczytanie danych
 data <- read.csv("zbior.csv")
